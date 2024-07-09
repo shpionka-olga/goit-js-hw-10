@@ -16,7 +16,7 @@ const iziToastOptions = {
     titleSize: '16px',
     messageLineHeight: '1.5',
     messageSize: '16px',
-    iconUrl: './img/error-img.svg',
+    iconUrl: '../img/error-img.svg',
     message: 'Please choose a date in the future',
 };
 

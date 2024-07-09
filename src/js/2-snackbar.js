@@ -31,7 +31,7 @@ form.addEventListener('submit', (event) => {
             const iziToastOptions = {
                 message: `Fulfilled promise in ${delay} ms`,
                 backgroundColor: '#59a10d',
-                iconUrl: './img/success.svg',
+                iconUrl: '../img/success.svg',
                 title: 'OK',
                 theme: 'dark',
                 titleLineHeight: '1.5',
@@ -45,7 +45,7 @@ form.addEventListener('submit', (event) => {
             const iziToastOptions = {
                 message: `Rejected promise in ${delay} ms`,
                 backgroundColor: '#ef4040',
-                iconUrl: './img/error-img.svg',
+                iconUrl: '../img/error-img.svg',
                 titleLineHeight: '1.5',
                 titleSize: '16px',
                 messageLineHeight: '1.5',
