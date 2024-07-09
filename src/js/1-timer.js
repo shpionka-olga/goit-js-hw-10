@@ -3,7 +3,7 @@ import iziToast from "izitoast";
 import "flatpickr/dist/flatpickr.min.css";
 import "izitoast/dist/css/iziToast.min.css";
 
-import errorUrl from './error.svg'
+import errorUrl from './img/error.svg';
 
 
 let chosenDate = null;
